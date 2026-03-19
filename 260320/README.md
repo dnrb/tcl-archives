@@ -8,7 +8,7 @@
 
 ### Intro
 * what BERT is and does
-* a glossary of the BERT/LLM lexicon
+* a [glossary](https://github.com/dnrb/tcl-archives/260320/glossary.MD) of the BERT/LLM lexicon
  
 ### Using BERT
 * [Getting Started With BERT.ipynb](https://github.com/dnrb/tcl-archives/260320/Getting-Started-With-BERT.ipynb)
@@ -17,3 +17,6 @@
 
 ## work building on BERT
 - BB on metaphor (novel) sense detection; using bert token vectors as interlanguage with documentary materials
+
+## some requests
+* LLMs and language documentation and revitalization: [link](https://research.kubishi.com/Posts/LLMs-and-Endangered-Language-Revitalization), [relevant CompLing workshop](https://computel-workshop.org/)
