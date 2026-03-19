@@ -8,7 +8,7 @@
 
 ### Intro
 * what BERT is and does
-* a [glossary](https://github.com/dnrb/tcl-archives/260320/glossary.md) of the BERT/LLM lexicon
+* a [glossary](glossary.md) of the BERT/LLM lexicon
  
 ### Using BERT
 * [Getting Started With BERT.ipynb](https://github.com/dnrb/tcl-archives/260320/Getting-Started-With-BERT.ipynb)
