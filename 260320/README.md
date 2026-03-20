@@ -7,7 +7,7 @@
 ## BERT fest
 
 ### Intro
-* what BERT is and does
+* what BERT is and does [slides](https://docs.google.com/presentation/d/1FKimblBBRc9FTFe9CCJEy1sJqtzYuUlxv7FBgKpyup8/edit?usp=sharing)
 * a [glossary](glossary.md) of the BERT/LLM lexicon
  
 ### Using BERT
