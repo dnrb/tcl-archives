@@ -3,14 +3,11 @@ Some key concepts
 Drawing on the [HuggingFace glossary](https://huggingface.co/docs/transformers/en/glossary), [BERT 101](https://huggingface.co/blog/bert-101).
 
 The architecture
-* tokenization
-* optimization
-* transformer head
-* attention
-* self-attention
-* layer
-* masked language model
-* next sentence prediction
+* language modelling -- bidirectional and otherwise
+* optimization -- masked word prediction and next sentence prediction
+* BERT: transformer architecture
+  * attention & self-attention
+  * layers
 
 Using BERT
 * finetuning: is a form of transfer learning which involves taking a pretrained model, freezing its weights, and replacing the output layer with a newly added model head. The model head is trained on your target dataset. HuggingFace has a [Fine-tune a pretrained model tutorial](https://huggingface.co/docs/transformers/training).
