@@ -16,9 +16,6 @@
 
 
 ## work building on BERT
-- BB on metaphor (novel) sense detection; using bert token vectors as interlanguage with documentary materials
-- SB
-- ED
 
 ## some requests
 * LLMs and language documentation and revitalization: [link](https://research.kubishi.com/Posts/LLMs-and-Endangered-Language-Revitalization), [relevant CompLing workshop](https://computel-workshop.org/)
