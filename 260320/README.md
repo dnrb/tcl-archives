@@ -1,13 +1,13 @@
 # Meeting 20 March 2026
 
 ## Agenda
-* presentation Kit Donohue [slides](2026-03-20-TCL.pdf)
+* presentation Kit Donohue ([slides](2026-03-20-TCL.pdf))
 * BERT fest
 
 ## BERT fest
 
 ### Intro
-* what BERT is and does [slides](https://docs.google.com/presentation/d/1FKimblBBRc9FTFe9CCJEy1sJqtzYuUlxv7FBgKpyup8/edit?usp=sharing)
+* what BERT is and does ([slides](https://docs.google.com/presentation/d/1FKimblBBRc9FTFe9CCJEy1sJqtzYuUlxv7FBgKpyup8/edit?usp=sharing))
 * a [glossary](glossary.md) of the BERT/LLM lexicon
  
 ### Using BERT
