@@ -19,3 +19,7 @@
 
 ## some requests
 * LLMs and language documentation and revitalization: [link](https://research.kubishi.com/Posts/LLMs-and-Endangered-Language-Revitalization), [relevant CompLing workshop](https://computel-workshop.org/)
+
+## for late Spring and Fall
+* who wants to present?
+* any requests for more demos?
